@@ -63,7 +63,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-03-18T16:47:30.109</Modified>
+      <Modified>2013-03-18T17:05:21.353</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\mainPage.js">
       <PackagePath>js\mainPage.js</PackagePath>

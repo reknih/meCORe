@@ -46,8 +46,8 @@ var runTime = 0;
             document.getElementById("refresh").onclick = anyPictureLoader;
             document.getElementById("picture1").addEventListener("click", function () { details(1) });
             document.getElementById("picture4").addEventListener("click", function () { details(4) });
-            //initDB();
-            listPictures(false, "anyPictureLoader");
+            initDB();
+            //listPictures(false, "anyPictureLoader");
             document.getElementById("settime").onclick = setTime;
             WinJS.Application.onsettings = function (e) {
                 e.detail.applicationcommands = {
@@ -139,7 +139,6 @@ function checkDB() {
     if (server !== undefined) { return true } else { setTimeout(checkDB, 100); }
 }
 function writeSettings(nametowrite, db, contenttowrite) {
-    return false;
     checkDB();
     if (db == 'settings') {
         server.settings.remove(0).done(function (key) {
@@ -169,7 +168,6 @@ function dumpPicture(pic) {
     writeSettings("pic1", "objects", pic)
 }
 function readSettings(dbName, col, nametowrite) {
-    return false;
     if (dbName == "settings") {
         query = server.settings.query().filter(col, nametowrite).execute()
           .done(function (results) {
@@ -286,7 +284,7 @@ function wait() {
 function waitready() {
     timeron = false;
     runTime++;
-    //if (runTime > 1) return false;
+    if (runTime > 1) return false;
     writeSettings("allPicture", "objects", globalPics);
     //if (listwhattodo == "anyPictureLoader") {
     //    anyPictureLoader();
