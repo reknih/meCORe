@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>MeTAPower</title>
+
+    <!-- WinJS-Verweise -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+    <script src="js/db.js"></script>
+    <!-- App1 references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+    <script src="/js/mainPage.js"></script>
+</head>
+<body>
+    
+    <!-- Add the background color matching you app tile color to the settings flyout header. -->
+    <!-- Use add the win-ui-dark class if the background color requires a white text  -->
+    <!-- Add the app small logo to the settings flyout header                         -->
+        <div aria-label="App Settings Flyout" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{settingsCommandId:'data', width:'wide'}">
+        <div class="win-header win-ui-light" style="background-color: #dbf9ff;">
+            <button class="win-backbutton" onclick="WinJS.UI.SettingsFlyout.show()" type="button"></button>
+	     <div class="win-label"><span data-win-res="{textContent: 'privacy'}"></span></div>
+	     <img alt="smalllogo" src="/images/smalllogo.png" style="height: 30px; width: 30px; position: absolute; right: 40px;"/>
+        </div>
+        <div class="win-content">
+            <span data-win-res="{textContent: 'privacyText'}"></span>
+        </div>
+    </div>
+    <div aria-label="App Settings Flyout" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{settingsCommandId:'copy', width:'narrow'}">
+        <div class="win-header win-ui-light" style="background-color: #dbf9ff;">
+            <button class="win-backbutton" onclick="WinJS.UI.SettingsFlyout.show()" type="button"></button>
+	     <div class="win-label"><span data-win-res="{textContent: 'copyright'}"></span></div>
+	     <img alt="smalllogo" src="/images/smalllogo.png" style="height: 30px; width: 30px; position: absolute; right: 40px;"/>
+        </div>
+        <div class="win-content">
+            
+            <span data-win-res="{textContent: 'copyrightText'}"></span><p>
+
+        </div>
+    </div>
+    <div aria-label="App Settings Flyout" data-win-control="WinJS.UI.SettingsFlyout" data-win-options="{settingsCommandId:'settings', width:'narrow'}">
+        <div class="win-header win-ui-light" style="background-color: #dbf9ff;">
+            <button class="win-backbutton" onclick="WinJS.UI.SettingsFlyout.show()" type="button"></button>
+	     <div class="win-label"><span data-win-res="{textContent: 'settings'}"></span></div>
+	     <img alt="smalllogo" src="/images/smalllogo.png" style="height: 30px; width: 30px; position: absolute; right: 40px;"/>
+        </div>
+        <div class="win-content">
+        <h3><span data-win-res="{textContent: 'settingsText'}"></span></h3>
+            <input id="range" type="range" min="3" max="60" step="1" value="10" />
+            <button id="settime"><span data-win-res="{textContent: 'save'}"></span></button> 
+        </div>
+    </div>
+	<div id="col1">
+		<img id="picture1" draggable="false" src="images/trans.png" style="background-color: #fff">
+		<img id="picture4" draggable="false" src="images/trans.png">
+	</div>
+
+	<div data-win-control="WinJS.UI.AppBar" id="appbar">
+		<button  data-win-res="{winControl : {label: 'refresh'}}"  data-win-control="WinJS.UI.AppBarCommand" data-win-options="{icon:'shuffle', id:'refresh', onclick:null, section:'global', type:'button'}"></button>
+	</div>
+</body>
+</html>

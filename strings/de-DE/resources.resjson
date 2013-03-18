@@ -1,0 +1,76 @@
+﻿// Deutsch
+
+{
+    "privacy"               : "Datenschutz",
+    "_privacy.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+    
+    "privacyText"           : "Diese App benutzt OpenStreetMap API. OpenStreetMap sammelt keine Nutzerdaten. Auch wir, central_link, werden keine Nutzerdaten sammeln und ins Internet übermitteln.",
+    "_privacyText.comment"  : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "copyright"             : "Copyright",
+    "_copyright.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "copyrightText"         : "Diese App benutzt OpenStreetMap API:",
+    "_copyrightText.comment": "Dies ist ein Kommentar für den Lokalisierer",
+
+    "settings"              : "Einstellungen",
+    "_settings.comment"     : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "settingsText"          : "Zeit bis zum Fotowechsel (in Sekunden)",
+    "_settingsText.comment" : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "refresh"               : "Neu laden",
+    "_refresh.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "open"                  : "Datei öffnen",
+    "_open.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "save"                  : "Speichern",
+    "_save.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "size"                  : "Dateigröße:",
+    "_size.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "orientation"           : "Format:",
+    "_orientation.comment"  : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "camMan"                : "Kamerahersteller:",
+    "_camMan.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "camMod"                : "Kamera:",
+    "_camMod.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "expTime"               : "Belichtungszeit:",
+    "_expTime.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "blend"                 : "Blende:",
+    "_blend.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "gps"                   : "GPS-Status:",
+    "_gps.comment"          : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "home"                  : "Startseite",
+    "_home.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "openOther"             : "Andere Datei öffnen",
+    "_openOther.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "chosenPic"             : "gewähltes Bild:",
+    "_chosenPic.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noPic"                 : "Kein Bild gewählt",
+    "_noPic.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "marked"                : "Auf Karte markiert!",
+    "_marked.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noGps"                 : "Keine GPS-Daten verfügbar!",
+    "_noGps.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "pleaseFullscreen"      : "Bitte zeigen Sie die App im Vollbildmodus an.",
+    "_pleaseFullscreen.comment" : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noFileChosen"          : "Keine Datei gewählt",
+    "_noFileChosen.comment" : "Dies ist ein Kommentar für den Lokalisierer"
+
+}

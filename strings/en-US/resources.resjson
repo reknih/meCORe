@@ -1,0 +1,76 @@
+﻿// Englisch
+
+{
+    "privacy"               : "Privacy",
+    "_privacy.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+    
+    "privacyText"           : "This App uses the OpenStreetMap API. OpenStreetMap does not collect data of users. Neither we, central_link, will collect your data.",
+    "_privacyText.comment"  : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "copyright"             : "Copyright",
+    "_copyright.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "copyrightText"         : "This App uses the OpenStreetMap API:",
+    "_copyrightText.comment": "Dies ist ein Kommentar für den Lokalisierer",
+
+    "settings"              : "Settings",
+    "_settings.comment"     : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "settingsText"          : "Time between the photos (seconds)",
+    "_settingsText.comment" : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "save"                  : "save",
+    "_save.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "refresh"               : "refresh",
+    "_refresh.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "open"                  : "open file",
+    "_open.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "size"                  : "File size:",
+    "_size.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "orientation"           : "Orientation:",
+    "_orientation.comment"  : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "camMan"                : "Camera manufacturer:",
+    "_camMan.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "camMod"                : "Camera:",
+    "_camMod.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "expTime"               : "Exposure time:",
+    "_expTime.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "blend"                 : "Blend:",
+    "_blend.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "gps"                   : "GPS-status:",
+    "_gps.comment"          : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "home"                  : "home",
+    "_home.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "openOther"             : "open other file",
+    "_openOther.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "chosenPic"             : "chosen picture",
+    "_chosenPic.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noPic"                 : "No picture chosen",
+    "_noPic.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "marked"                : "Pinned on map!",
+    "_marked.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noGps"                 : "No GPS-data avilable!",
+    "_noGps.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "pleaseFullscreen"      : "Please display meTAPower in fullscreen mode.",
+    "_pleaseFullscreen.comment" : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noFileChosen"          : "No file chosen",
+    "_noFileChosen.comment" : "Dies ist ein Kommentar für den Lokalisierer"
+
+}

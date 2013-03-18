@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:build="http://schemas.microsoft.com/developer/appx/2012/build" IgnorableNamespaces="build">
+  <!--
+    DIESE PAKETMANIFESTDATEI WIRD DURCH DEN BUILDVORGANG GENERIERT.
+
+    Änderungen an dieser Datei gehen verloren, wenn sie erneut erstellt wird. Um Fehler in dieser Datei zu beheben, bearbeiten Sie die '.appxmanifest'-Quelldatei.
+
+    Weitere Informationen zu Paketmanifestdateien finden Sie unter http://go.microsoft.com/fwlink/?LinkID=241727
+  -->
+  <Identity Name="23202centrallink.meTAPower" Version="1.1.0.7" Publisher="CN=central_link" ProcessorArchitecture="neutral" />
+  <Properties>
+    <DisplayName>meCORe</DisplayName>
+    <PublisherDisplayName>central_link</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="DE-DE" />
+    <Resource Language="EN-US" />
+    <Resource Language="FR-FR" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="meCORe" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Mit meTAPower kannst du ganz einfach alle Metadateien eines Bildes ablesen. Außerdem zeigt dir metaPower deine Bilder in einer wunderschönen Ansicht, lass dich inspirieren!" ForegroundText="dark" BackgroundColor="#dbf9ff" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" ShortName="meCORe" WideLogo="images\biglogo.png" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#dbf9ff" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="picturesLibrary" />
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+  <Dependencies>
+    <PackageDependency Name="Microsoft.WinJS.1.0" MinVersion="1.0.9200.20512" />
+  </Dependencies>
+  <build:Metadata>
+    <build:Item Name="VisualStudio" Version="11.0" />
+    <build:Item Name="OperatingSystem" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.50727.1" />
+    <build:Item Name="MakePri.exe" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
+  </build:Metadata>
+</Package>

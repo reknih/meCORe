@@ -1,0 +1,13 @@
+C:\ws\Photolocator1\meCORe\bin\Debug\resources.pri
+C:\ws\Photolocator1\meCORe\bin\Debug\AppxManifest.xml
+C:\ws\Photolocator1\meCORe\bld\Debug\priconfig.xml.intermediate
+C:\ws\Photolocator1\meCORe\bld\Debug\layout.resfiles.intermediate
+C:\ws\Photolocator1\meCORe\bld\Debug\resources.resfiles.intermediate
+C:\ws\Photolocator1\meCORe\bld\Debug\pri.resfiles.intermediate
+C:\ws\Photolocator1\meCORe\bld\Debug\priconfig.xml
+C:\ws\Photolocator1\meCORe\bld\Debug\layout.resfiles
+C:\ws\Photolocator1\meCORe\bld\Debug\resources.resfiles
+C:\ws\Photolocator1\meCORe\bld\Debug\pri.resfiles
+C:\ws\Photolocator1\meCORe\bld\Debug\LanguageQualifiers.txt
+C:\ws\Photolocator1\meCORe\bld\Debug\ProjectArchitectures.txt
+C:\ws\Photolocator1\meCORe\bin\Debug\meCORe.build.appxrecipe

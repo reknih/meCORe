@@ -1,0 +1,76 @@
+﻿// Französisch
+
+{
+    "privacy"               : "Protection de donées",
+    "_privacy.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+    
+    "privacyText"           : "Cette app utilise l'API d'OpenStreetMap. OpenStreetMap ne cueille pas des donées sur les utilisateurs. Nous ne cueillons pas des donées aussi.",
+    "_privacyText.comment"  : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "copyright"             : "Copyright",
+    "_copyright.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "copyrightText"         : "Cette app utilise l'API d'OpenStreetMap:",
+    "_copyrightText.comment": "Dies ist ein Kommentar für den Lokalisierer",
+
+    "settings"              : "Paramètres",
+    "_settings.comment"     : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "settingsText"          : "Temps entre les images (en secondes)",
+    "_settingsText.comment" : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "save"                  : "Enregistrer",
+    "_save.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "refresh"               : "Des nouvelle images",
+    "_refresh.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "open"                  : "Ovrir fichier",
+    "_open.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "size"                  : "Taille du fichier:",
+    "_size.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "orientation"           : "Orientation:",
+    "_orientation.comment"  : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "camMan"                : "Fabricant de la caméra:",
+    "_camMan.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "camMod"                : "Caméra:",
+    "_camMod.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "expTime"               : "Temps de l'exposition:",
+    "_expTime.comment"      : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "blend"                 : "Iris:",
+    "_blend.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "gps"                   : "GPS-statut:",
+    "_gps.comment"          : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "home"                  : "Acceuil",
+    "_home.comment"         : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "openOther"             : "Ovrir un autre fichier",
+    "_openOther.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "chosenPic"             : "Image choisi",
+    "_chosenPic.comment"    : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noPic"                 : "Pas choisi une image",
+    "_noPic.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "marked"                : "Marquée aux plan!",
+    "_marked.comment"       : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noGps"                 : "Pas de GPS-donées!",
+    "_noGps.comment"        : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "pleaseFullscreen"      : "Afficher l'App aux plein écran, s'il vous plaît.",
+    "_pleaseFullscreen.comment" : "Dies ist ein Kommentar für den Lokalisierer",
+
+    "noFileChosen"          : "Pas choisi une image",
+    "_noFileChosen.comment" : "Dies ist ein Kommentar für den Lokalisierer"
+
+}

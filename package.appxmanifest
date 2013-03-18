@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="23202centrallink.meTAPower" Version="1.1.0.7" Publisher="CN=central_link" />
+  <Properties>
+    <DisplayName>meCORe</DisplayName>
+    <PublisherDisplayName>central_link</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="meCORe" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="Mit meTAPower kannst du ganz einfach alle Metadateien eines Bildes ablesen. Außerdem zeigt dir metaPower deine Bilder in einer wunderschönen Ansicht, lass dich inspirieren!" ForegroundText="dark" BackgroundColor="#dbf9ff" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" ShortName="meCORe" WideLogo="images\biglogo.png" />
+        <SplashScreen Image="images\splashscreen.png" BackgroundColor="#dbf9ff" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="picturesLibrary" />
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="location" />
+  </Capabilities>
+</Package>
