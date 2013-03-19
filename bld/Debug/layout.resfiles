@@ -1,6 +1,5 @@
 css\default.css
 default.html
-image\Microsoft.VisualStudio.Blend.Html.Intrinsic.Img.png
 images\biglogo.png
 images\logo.png
 images\smalllogo.png
@@ -11,4 +10,3 @@ js\db.js
 js\default.js
 js\mainPage.js
 js\style.css
-js\theme\default\style.css

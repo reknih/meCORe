@@ -39,9 +39,6 @@
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\images\trans.png">
       <PackagePath>images\trans.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\image\Microsoft.VisualStudio.Blend.Html.Intrinsic.Img.png">
-      <PackagePath>image\Microsoft.VisualStudio.Blend.Html.Intrinsic.Img.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\db.js">
       <PackagePath>js\db.js</PackagePath>
     </AppxPackagedFile>
@@ -56,9 +53,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\style.css">
       <PackagePath>js\style.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\theme\default\style.css">
-      <PackagePath>js\theme\default\style.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

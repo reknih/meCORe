@@ -64,13 +64,11 @@
     <Content Include="images\splashscreen.png" />
     <Content Include="images\storelogo.png" />
     <Content Include="images\trans.png" />
-    <Content Include="image\Microsoft.VisualStudio.Blend.Html.Intrinsic.Img.png" />
     <Content Include="js\db.js" />
     <Content Include="js\default.js" />
     <Content Include="css\default.css" />
     <Content Include="js\mainPage.js" />
     <Content Include="js\style.css" />
-    <Content Include="js\theme\default\style.css" />
     <None Include="App1_StoreKey.pfx" />
     <None Include="App1_TemporaryKey.pfx" />
     <None Include="meCORe_TemporaryKey.pfx" />

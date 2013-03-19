@@ -16,13 +16,13 @@
     <AppXManifest Include="C:\ws\Photolocator1\meCORe\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-03-18T16:09:06.503</Modified>
+      <Modified>2013-03-19T14:24:01.388</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-03-18T16:19:10.369</Modified>
+      <Modified>2013-03-19T14:24:00.003</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\images\biglogo.png">
       <PackagePath>images\biglogo.png</PackagePath>
@@ -53,10 +53,6 @@
       <PackagePath>images\trans.png</PackagePath>
       <Modified>2013-02-12T09:19:05.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\image\Microsoft.VisualStudio.Blend.Html.Intrinsic.Img.png">
-      <PackagePath>image\Microsoft.VisualStudio.Blend.Html.Intrinsic.Img.png</PackagePath>
-      <Modified>2013-02-06T12:42:30.948</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\db.js">
       <PackagePath>js\db.js</PackagePath>
       <Modified>2013-02-27T14:58:30.161</Modified>
@@ -77,13 +73,9 @@
       <PackagePath>js\style.css</PackagePath>
       <Modified>2013-02-15T21:05:42.223</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\js\theme\default\style.css">
-      <PackagePath>js\theme\default\style.css</PackagePath>
-      <Modified>2013-02-15T21:06:28.812</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\ws\Photolocator1\meCORe\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-03-18T16:09:06.455</Modified>
+      <Modified>2013-03-19T14:24:01.217</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
